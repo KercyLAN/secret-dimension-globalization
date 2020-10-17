@@ -1,4 +1,4 @@
-module secret-dimension-globalization
+module github.com/KercyLAN/secret-dimension-globalization
 
 go 1.14
 
